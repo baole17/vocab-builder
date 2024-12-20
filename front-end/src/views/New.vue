@@ -16,7 +16,6 @@
 <script>
 import WordForm from '../components/WordForm.vue';
 import { api } from '../helpers/helpers';
-
 export default {
     name: 'new-word',
     components: {
